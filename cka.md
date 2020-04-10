@@ -12,3 +12,4 @@ spec:
     - ReadWriteOnce
   hostPath:
     path: /srv/app-config 
+    
